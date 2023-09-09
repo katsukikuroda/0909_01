@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://s3-ap-northeast-1.amazonaws.com/thegate/2022/04/11/18/20/52/Wagashi%20Japanese%20Sweets.jpg);
     background-size: cover;
 }
 
@@ -20,15 +20,15 @@
 
 .top-content h1 {
     /* display: inline; */
-    font-size: 4em;
+    font-size: 6em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: rgba(55, 67, 65, 0.436);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #6a4f9c62;
 }
 
 .content-section .container { 
